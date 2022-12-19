@@ -11,7 +11,7 @@ setuptools.setup(
     description='Testing installation of Package',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/VidhiChheda/VidhiPythonLibraries/Vidhitoolbox/library2/package2',
+    url='https://github.com/VidhiChheda/VidhiPythonLibraries/Vidhitoolbox/library2/packagecheck2',
     #license='MIT',
     packages=['package2'],
     install_requires=['requests'],
