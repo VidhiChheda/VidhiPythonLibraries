@@ -13,6 +13,6 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url='https://github.com/VidhiChheda/VidhiPythonLibraries/Vidhitoolbox/library1',
     #license='MIT',
-    packages=['packagecheck1'],
+    packages=['library1'],
     install_requires=['requests'],
 )
